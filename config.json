@@ -1,0 +1,12 @@
+{
+  "simulated-lag": 200,
+  "cors": false,
+  "jsonp": false,
+  "routes": [
+    "/users/:userid",
+    "/users/:userid/profile",
+    "/users/:userid/inbox/:messageid"
+  ],
+  "variables": {
+  }
+}

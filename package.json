@@ -1,0 +1,22 @@
+{
+  "name": "api-mock-sandbox",
+  "version": "1.0.0",
+  "description": "node-easymock sample",
+  "main": "index.js",
+  "scripts": {
+    "mock": "easymock"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitsuruog/api-mock-sandbox.git"
+  },
+  "author": "mitsuruog <mitsuru.ogawa.jp@gmail.com> (http://blog.mitsuruog.info/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitsuruog/api-mock-sandbox/issues"
+  },
+  "homepage": "https://github.com/mitsuruog/api-mock-sandbox#readme",
+  "dependencies": {
+    "easymock": "^0.2.17"
+  }
+}
